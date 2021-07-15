@@ -1,2 +1,3 @@
 # PythonPandas
-Pandas with Matplotlib Diagram
+Pandas with Matplotlib Diagram</br>
+PANDAS with MATPLOTLIB
